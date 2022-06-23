@@ -49,9 +49,5 @@
             </div><!-- .card-body end -->
         </div><!-- .card end -->
     </div><!-- .container end -->
-
-    <!-- <i class="fab fa-telegram"></i> -->
-    <script src="all.js"></script>
 </body>
-
 </html>
