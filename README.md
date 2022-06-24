@@ -1,1 +1,1 @@
-Goto wiki Tab to Learn More
+Goto 'Wiki' Tab to Learn More
